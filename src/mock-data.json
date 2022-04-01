@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "susmitha",
+    "address": "Tirunelvali",
+    "phoneNumber": "8825893873",
+    "gmail": "susmithasuki15@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullName": "mary sumithra",
+    "address": "Kaniyakumari",
+    "phoneNumber": "8925362941",
+    "gmail": "sumis2140@gmail.com"
+  },
+  {
+    "id": 3,
+    "fullName": "vinsent",
+    "address": "Chennai",
+    "phoneNumber": "9840874096",
+    "gmail": "vinsent.storage@gmail.com"
+  },
+  {
+    "id": 4,
+    "fullName": "hary",
+    "address": "salem",
+    "phoneNumber": "7502233656",
+    "gmail": "iamharry.dev@gmail.com"
+  },
+  {
+    "id": 5,
+    "fullName": "Rajan",
+    "address": "chennai",
+    "phoneNumber": "6382774474",
+    "gmail": "ranaldo.tom@gmail.com"
+  }
+]
